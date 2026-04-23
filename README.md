@@ -11,12 +11,18 @@ The goal is to help stakeholders understand borrower behavior, repayment pattern
 🛠️ Tech Stack
 
 
-Stage            ToolData 
+        
 Cleaning         Python (Pandas)
+
+
 Data Analysis    SQL
+
+
 Visualization    Dashboard & VizPower BI, Excel Pivot Tables
 
+
 Business Problem:
+
 A lending company is issuing loans without a data-driven understanding of borrower behavior, repayment patterns, and portfolio risk — leading to increased defaults, poor risk segmentation, and missed business opportunities.
 
 📊 Key Performance Indicators (KPIs)
@@ -58,9 +64,9 @@ Examines how a borrower's home ownership category (Own, Rent, Mortgage) correlat
 
 ## Dashboards:
 
-Power BI Dashboard [preview] : https://github.com/anupamanagireddi01-DataAnalyst/Bank-Loan-Analysis/blob/main/Loan%20analaysis%20dashboard.PNG
+Power BI Dashboard [preview] :(https://github.com/anupamanagireddi01-DataAnalyst/Bank-Loan-Analysis/blob/main/Loan%20analaysis%20dashboard.PNG)
 
-Excel Dashboard [preview] : https://github.com/anupamanagireddi01-DataAnalyst/Bank-Loan-Analysis/blob/main/Bank%20Loan%20analaysis%20excel%20dashboard.PNG
+Excel Dashboard [preview] : (https://github.com/anupamanagireddi01-DataAnalyst/Bank-Loan-Analysis/blob/main/Bank%20Loan%20analaysis%20excel%20dashboard.PNG)
 
 
 
