@@ -3,11 +3,14 @@ End-to-end loan data analysis project leveraging Python (Pandas) for data cleani
 
 
 📌 Project Overview
+
 This project performs a comprehensive analysis of loan data to uncover trends, risk patterns, and financial insights. The pipeline covers the full analytics workflow — from raw data cleaning to interactive dashboards — using industry-standard tools across each stage.
 The goal is to help stakeholders understand borrower behavior, repayment patterns, and portfolio health through meaningful KPIs and visual storytelling.
 
 
 🛠️ Tech Stack
+
+
 Stage            ToolData 
 Cleaning         Python (Pandas)
 Data Analysis    SQL
@@ -54,7 +57,9 @@ Examines how a borrower's home ownership category (Own, Rent, Mortgage) correlat
 - Mortgage homeowners show more consistent last payment dates compared to renters.
 
 ## Dashboards:
+
 Power BI Dashboard [preview] : https://github.com/anupamanagireddi01-DataAnalyst/Bank-Loan-Analysis/blob/main/Loan%20analaysis%20dashboard.PNG
+
 Excel Dashboard [preview] : https://github.com/anupamanagireddi01-DataAnalyst/Bank-Loan-Analysis/blob/main/Bank%20Loan%20analaysis%20excel%20dashboard.PNG
 
 
