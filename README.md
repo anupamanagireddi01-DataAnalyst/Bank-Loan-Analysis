@@ -12,13 +12,13 @@ The goal is to help stakeholders understand borrower behavior, repayment pattern
 
 
         
-Cleaning         Python (Pandas)
+Cleaning            Python (Pandas)
 
 
-Data Analysis    SQL
+Data Analysis        SQL
 
 
-Visualization    Dashboard & VizPower BI, Excel Pivot Tables
+Visualization Dashboard    Power BI, Excel Pivot Tables
 
 
 Business Problem:
@@ -38,6 +38,8 @@ A geographic and temporal breakdown of loan statuses (Fully Paid, Charged Off, C
 Examines how a borrower's home ownership category (Own, Rent, Mortgage) correlates with their last payment date. This helps assess whether home ownership influences timely repayment behavior.
 
 🔄 Project Workflow
+ 
+ 
  1.Raw Loan Data : Python (Pandas)
   - Data Cleaning 
   - Null handling     
@@ -64,9 +66,13 @@ Examines how a borrower's home ownership category (Own, Rent, Mortgage) correlat
 
 ## Dashboards:
 
-Power BI Dashboard [preview] :(https://github.com/anupamanagireddi01-DataAnalyst/Bank-Loan-Analysis/blob/main/Loan%20analaysis%20dashboard.PNG)
+Power BI Dashboard :
 
-Excel Dashboard [preview] : (https://github.com/anupamanagireddi01-DataAnalyst/Bank-Loan-Analysis/blob/main/Bank%20Loan%20analaysis%20excel%20dashboard.PNG)
+![preview](https://github.com/anupamanagireddi01-DataAnalyst/Bank-Loan-Analysis/blob/main/Loan%20analaysis%20dashboard.PNG)
+
+Excel Dashboard :
+
+![preview](https://github.com/anupamanagireddi01-DataAnalyst/Bank-Loan-Analysis/blob/main/Bank%20Loan%20analaysis%20excel%20dashboard.PNG)
 
 
 
