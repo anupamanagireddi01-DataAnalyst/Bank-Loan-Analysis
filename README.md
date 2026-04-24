@@ -12,10 +12,10 @@ The goal is to help stakeholders understand borrower behavior, repayment pattern
 
 
         
-Cleaning            Python (Pandas)
+Cleaning                    Python (Pandas)
 
 
-Data Analysis        SQL
+Data Analysis               SQL
 
 
 Visualization Dashboard    Power BI, Excel Pivot Tables
