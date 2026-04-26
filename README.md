@@ -68,7 +68,7 @@ Examines how a borrower's home ownership category (Own, Rent, Mortgage) correlat
 
 Power BI Dashboard :
 
-![preview]([https://github.com/anupamanagireddi01-DataAnalyst/Bank-Loan-Analysis/blob/main/Bank_Loan_analysis_Dashboard.PNG)
+![preview](https://github.com/anupamanagireddi01-DataAnalyst/Bank-Loan-Analysis/blob/main/Bank%20Loan%20Analysis%20Dashboard.PNG)
 
 
 Excel Dashboard :
